@@ -24,7 +24,9 @@ O projeto anterior pode ser encontrado <a href="https://github.com/cristianocorr
 <a href="#">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=100 />
 </a>
-
+<a href="#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=100 />
+</a>
 ## Autores
 
 | [<img src="https://avatars.githubusercontent.com/u/94192765?v=4" width=115><br><sub>Cristiano Correa de Moraes</sub>](https://github.com/cristianocorreamoraes)
