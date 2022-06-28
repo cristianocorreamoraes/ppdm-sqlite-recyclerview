@@ -26,9 +26,7 @@ public class SQLHelper extends SQLiteOpenHelper {
     public static SQLHelper getInstance(Context context) {
 
         if (INSTANCE == null) {
-
             INSTANCE = new SQLHelper(context);
-
         }
 
         return INSTANCE;
@@ -36,9 +34,7 @@ public class SQLHelper extends SQLiteOpenHelper {
     }
 
     public SQLHelper(@Nullable Context context) {
-
         super(context, DB_NAME, null, DB_VERSION);
-
     }
 
     @Override

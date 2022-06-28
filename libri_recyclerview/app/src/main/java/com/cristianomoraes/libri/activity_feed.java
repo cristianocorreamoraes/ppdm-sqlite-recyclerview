@@ -123,7 +123,7 @@ public class activity_feed extends AppCompatActivity {
 
         class LivroViewHolder extends RecyclerView.ViewHolder{
 
-            //        private ImageView livroImagem;
+//            private ImageView livroImagem;
             private TextView textLivroTitulo, textLivroDescricao;
             private int cod_livro;
 
@@ -136,18 +136,17 @@ public class activity_feed extends AppCompatActivity {
 
                 itemView.setOnClickListener(view -> {
 
-                    //Log.d("CLICK-", String.valueOf(cod_livro));
-
+//                    Log.d("CLICK-", String.valueOf(cod_livro));
                     AlertDialog.Builder alertDialog = new AlertDialog.Builder(activity_feed.this)
                             .setMessage("ESCOLHA A AÇÃO QUE DESEJA EXECUTAR")
                             .setNegativeButton("ALTERAR", (dialog1, witch)->{
-                                //Log.d("CLICK-", "ALTERAR");
+//                                Log.d("CLICK-", "ALTERAR");
                                 Intent intent = new Intent(activity_feed.this, activity_altera_livro.class);
                                 intent.putExtra("cod_livro", cod_livro);
                                 startActivity(intent);
                             })
                             .setPositiveButton("EXCLUIR", (dialog1, witch)->{
-                                //Log.d("CLICK-", "EXCLUIR");
+//                                Log.d("CLICK-", "EXCLUIR");
                                 if(SQLHelper.getInstance(activity_feed.this).deleteBooks(cod_livro)){
                                     Toast.makeText(activity_feed.this, "LIVRO EXCLUÍDO COM SUCESSO!", Toast.LENGTH_SHORT).show();
 
