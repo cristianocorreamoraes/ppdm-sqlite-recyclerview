@@ -10,6 +10,8 @@ Trata-se de um projeto que demonstra como acessar e inserir dados em banco de da
 É uma evolução do projeto anterior com aplicação do recurso de "recyclerview", além das implementações de menu de navegação, edição e exclusão de livros. Também foi implementado um sistema de login/logout local.
 
 O projeto anterior pode ser encontrado <a href="https://github.com/cristianocorreamoraes/ppdm-sqlite">AQUI</a>.
+
+<strong>VALE RESSALTAR AQUI QUE O PROJETO É DE CUNHO DE DIDÁTICO, ESTÁ BEM SIMPLES E AINDA PRECISA DE DIVERSAS IMPLEMENTAÇÕES</strong> 
  
 </p>
 
