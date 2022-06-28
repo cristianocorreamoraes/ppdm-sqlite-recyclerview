@@ -11,7 +11,7 @@ Trata-se de um projeto que demonstra como acessar e inserir dados em banco de da
 
 O projeto anterior pode ser encontrado <a href="https://github.com/cristianocorreamoraes/ppdm-sqlite">AQUI</a>.
 
-<strong>VALE RESSALTAR AQUI QUE O PROJETO É DE CUNHO DE DIDÁTICO, ESTÁ BEM SIMPLES E AINDA PRECISA DE DIVERSAS IMPLEMENTAÇÕES</strong> 
+<strong>VALE RESSALTAR AQUI QUE O PROJETO É DE CUNHO DIDÁTICO, ESTÁ BEM SIMPLES E AINDA PRECISA DE DIVERSAS IMPLEMENTAÇÕES</strong> 
  
 </p>
 
